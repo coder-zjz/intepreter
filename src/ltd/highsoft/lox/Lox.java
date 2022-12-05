@@ -12,6 +12,8 @@ public class Lox {
 
     static boolean hadError = false;
     public static void main(String[] args) throws IOException {
+
+        System.out.print("hello github!");
         if(args.length > 1) {
             System.out.println("Usage: jlox [script]");
             System.exit(64);
