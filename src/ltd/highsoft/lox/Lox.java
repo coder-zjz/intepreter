@@ -10,6 +10,7 @@ import java.util.List;
 
 public class Lox {
 
+
     static boolean hadError = false;
     public static void main(String[] args) throws IOException {
 
